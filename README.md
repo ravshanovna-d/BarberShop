@@ -63,7 +63,7 @@ All routes are under `/{API_V1_URL}user/`, for example `/api/v1/user/`.
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/dlsoul13/BarberShop.git
+git clone https://github.com/ravshanovna-d/BarberShop.git
 cd BarberShop
 cp .env.example .env   # then fill in your values
 ```
@@ -109,7 +109,7 @@ BarberShop/
 ## 🗺 Roadmap
 
 - [ ] Barbers, services and appointment booking
-- [ ] AI hairstyle recommendation ([AI_Hairstyle_recommender](https://github.com/dlsoul13/AI_Hairstyle_recommender))
+- [ ] AI hairstyle recommendation ([AI_Hairstyle_recommender](https://github.com/ravshanovna-d/AI_Hairstyle_recommender))
 - [ ] PostgreSQL in production
 - [ ] Swagger / OpenAPI docs
 
